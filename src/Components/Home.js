@@ -5,7 +5,7 @@ const Home = () => {
     let navigation = useNavigate();
         
     const goToContectPage =()=>{
-        navigation("/Contact");
+        navigation("/potfolio/Contact");
 
     }
 

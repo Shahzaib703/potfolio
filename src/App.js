@@ -13,9 +13,9 @@ function App() {
       <BrowserRouter>
         <NavBar />
         <Routes>
-        <Route exect path="/" element={<Home />} />
-        <Route exect path="/Contact" element={<Contect/>}/>  
-        <Route exect path="/Projects" element={<Projects/>}/>
+        <Route exect path="/potfolio/" element={<Home />} />
+        <Route exect path="/potfolio/Contact" element={<Contect/>}/>  
+        <Route exect path="/potfolio/Projects" element={<Projects/>}/>
         
         </Routes>
       </BrowserRouter>
