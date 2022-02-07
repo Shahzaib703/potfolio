@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/potfolio/static/css/main.5dbf4201.css",
+    "main.js": "/potfolio/static/js/main.da877716.js",
+    "index.html": "/potfolio/index.html",
+    "main.5dbf4201.css.map": "/potfolio/static/css/main.5dbf4201.css.map",
+    "main.da877716.js.map": "/potfolio/static/js/main.da877716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbf4201.css",
+    "static/js/main.da877716.js"
+  ]
+}
