@@ -52,7 +52,7 @@ const Projects = () => {
     {
       Title: "The Music App",
       ProjectType: "Android Application",
-      Image: "/The_Music_frame.png",
+      Image: "https://firebasestorage.googleapis.com/v0/b/massagingapp-4fa3c.appspot.com/o/ProjectsImages%2Fthe%20music.jpeg?alt=media&token=e062bc2f-dc95-4003-9c98-3efc8b9b441f",
       Discription:
         "i created this application for client(Usman). The client is completely satisfied and he promised me to give projects in future.",
       Url: "https://www.youtube.com/watch?v=_ItkTIhEepc",
